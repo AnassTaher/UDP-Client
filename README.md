@@ -1,7 +1,8 @@
 A UDP client over python
 
 Commands:
- - @<user> <message> - Send a message to a user
+ <!-- @user message -->
+ - @user message - Send a private message to a user
  - !who - List all users
  - !quit - Quit the chat
 
