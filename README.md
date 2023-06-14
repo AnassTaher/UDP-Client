@@ -8,6 +8,7 @@ Commands:
 
 ## Usage
 Run two instances of the client on different terminals
-    ```bash
-    python3 UDP.py 
-    ```
+
+```bash
+python3 UDP.py 
+```
